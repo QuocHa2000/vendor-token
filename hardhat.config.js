@@ -9,7 +9,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-const ALCHEMY_API_KEY = "moFfNuvVXa28N6eDcnuXC4wdjKXa4MLx";
+const ALCHEMY_API_KEY = "E9fKKUFAEfQetgjqW67X4zeqBxnltyjg";
 const ROPSTEN_PRIVATE_KEY =
   "d070410d4a85d7c074871b12b074f007007e854a5994ee0594bcd9aa2ea946ed";
 
