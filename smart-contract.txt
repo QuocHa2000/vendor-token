@@ -3,3 +3,4 @@ Token contract token address: 0x94C43B56931a9c8E61626D54329a3Ddfe8e9040b - https
 Verified vendor contract address : 0xEC9443713869b88e63D395Bc032e383F910264B2
 
 verify contract command : npx hardhat verify --network ropsten 0xEC9443713869b88e63D395Bc032e383F910264B2 "0x94C43B56931a9c8E61626D54329a3Ddfe8e9040b"
+verify token command : npx hardhat verify --contract "contracts/Token.sol:MainToken" --network ropsten 0x94C43B56931a9c8E61626D54329a3Ddfe8e9040b
