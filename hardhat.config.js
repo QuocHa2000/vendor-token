@@ -17,9 +17,9 @@ module.exports = {
   defaultNetwork: "hardhat",
   networks: {
     // hardhat: {},
-    // development: {
-    //   url: "http://127.0.0.1:8545",
-    // },
+    development: {
+      url: "http://127.0.0.1:8545",
+    },
     // quorum: {
     //   url: "http://127.0.0.1:22000",
     // },

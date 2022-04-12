@@ -1,0 +1,3 @@
+Token contract token address: 0x94C43B56931a9c8E61626D54329a3Ddfe8e9040b - https://ropsten.etherscan.io/token/0x94c43b56931a9c8e61626d54329a3ddfe8e9040b?a=0xEC9443713869b88e63D395Bc032e383F910264B2
+
+Verified vendor contract address : 0xEC9443713869b88e63D395Bc032e383F910264B2
